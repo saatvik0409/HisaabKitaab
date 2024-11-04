@@ -1,0 +1,186 @@
+[
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.2\\com.example.spnitwise.app-merged_res-82:\\drawable_resource_file.jpg.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.2\\com.example.spnitwise.app-main-84:\\drawable\\resource_file.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.2\\com.example.spnitwise.app-merged_res-82:\\drawable_ic_friend.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.2\\com.example.spnitwise.app-main-84:\\drawable\\ic_friend.xml"
+    },
+    {
+        "merged": "com.example.spnitwise.app-merged_res-82:/layout_fragment_add_friend_expense.xml.flat",
+        "source": "com.example.spnitwise.app-main-84:/layout/fragment_add_friend_expense.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.2\\com.example.spnitwise.app-merged_res-82:\\layout_fragment_profile.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.2\\com.example.spnitwise.app-main-84:\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.2\\com.example.spnitwise.app-merged_res-82:\\menu_bottom_nav_menu.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.2\\com.example.spnitwise.app-main-84:\\menu\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.2\\com.example.spnitwise.app-merged_res-82:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.2\\com.example.spnitwise.app-main-84:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.2\\com.example.spnitwise.app-merged_res-82:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.2\\com.example.spnitwise.app-main-84:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.2\\com.example.spnitwise.app-merged_res-82:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.2\\com.example.spnitwise.app-main-84:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.2\\com.example.spnitwise.app-merged_res-82:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.2\\com.example.spnitwise.app-main-84:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.2\\com.example.spnitwise.app-merged_res-82:\\layout_fragment_friends.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.2\\com.example.spnitwise.app-main-84:\\layout\\fragment_friends.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.2\\com.example.spnitwise.app-merged_res-82:\\drawable_rounded_corners.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.2\\com.example.spnitwise.app-main-84:\\drawable\\rounded_corners.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.2\\com.example.spnitwise.app-merged_res-82:\\drawable_rounded_rectangle.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.2\\com.example.spnitwise.app-main-84:\\drawable\\rounded_rectangle.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.2\\com.example.spnitwise.app-merged_res-82:\\drawable_ic_home.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.2\\com.example.spnitwise.app-main-84:\\drawable\\ic_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.2\\com.example.spnitwise.app-merged_res-82:\\layout_item_layout.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.2\\com.example.spnitwise.app-main-84:\\layout\\item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.2\\com.example.spnitwise.app-merged_res-82:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.2\\com.example.spnitwise.app-main-84:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.2\\com.example.spnitwise.app-merged_res-82:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.2\\com.example.spnitwise.app-main-84:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.2\\com.example.spnitwise.app-merged_res-82:\\layout_fragment_add_friend_expense.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.2\\com.example.spnitwise.app-main-84:\\layout\\fragment_add_friend_expense.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.2\\com.example.spnitwise.app-merged_res-82:\\drawable_ic_profile.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.2\\com.example.spnitwise.app-main-84:\\drawable\\ic_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.2\\com.example.spnitwise.app-merged_res-82:\\layout_layout_login.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.2\\com.example.spnitwise.app-main-84:\\layout\\layout_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.2\\com.example.spnitwise.app-merged_res-82:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.2\\com.example.spnitwise.app-main-84:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.2\\com.example.spnitwise.app-merged_res-82:\\drawable_ic_add_friend.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.2\\com.example.spnitwise.app-main-84:\\drawable\\ic_add_friend.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.2\\com.example.spnitwise.app-merged_res-82:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.2\\com.example.spnitwise.app-main-84:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.2\\com.example.spnitwise.app-merged_res-82:\\layout_fragment_expenses.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.2\\com.example.spnitwise.app-main-84:\\layout\\fragment_expenses.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.2\\com.example.spnitwise.app-merged_res-82:\\layout_fragment_new_friend.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.2\\com.example.spnitwise.app-main-84:\\layout\\fragment_new_friend.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.2\\com.example.spnitwise.app-merged_res-82:\\drawable_ic_add2.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.2\\com.example.spnitwise.app-main-84:\\drawable\\ic_add2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.2\\com.example.spnitwise.app-merged_res-82:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.2\\com.example.spnitwise.app-main-84:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.2\\com.example.spnitwise.app-merged_res-82:\\layout_add_expense_card_layout.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.2\\com.example.spnitwise.app-main-84:\\layout\\add_expense_card_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.2\\com.example.spnitwise.app-merged_res-82:\\layout_selected_contact_layout.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.2\\com.example.spnitwise.app-main-84:\\layout\\selected_contact_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.2\\com.example.spnitwise.app-merged_res-82:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.2\\com.example.spnitwise.app-main-84:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.2\\com.example.spnitwise.app-merged_res-82:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.2\\com.example.spnitwise.app-main-84:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.2\\com.example.spnitwise.app-merged_res-82:\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.2\\com.example.spnitwise.app-main-84:\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.2\\com.example.spnitwise.app-merged_res-82:\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.2\\com.example.spnitwise.app-main-84:\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.2\\com.example.spnitwise.app-merged_res-82:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.2\\com.example.spnitwise.app-main-84:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.2\\com.example.spnitwise.app-merged_res-82:\\layout_groups_card_layout.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.2\\com.example.spnitwise.app-main-84:\\layout\\groups_card_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.2\\com.example.spnitwise.app-merged_res-82:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.2\\com.example.spnitwise.app-main-84:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.2\\com.example.spnitwise.app-merged_res-82:\\layout_expenses_card_layout.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.2\\com.example.spnitwise.app-main-84:\\layout\\expenses_card_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.2\\com.example.spnitwise.app-merged_res-82:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.2\\com.example.spnitwise.app-main-84:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.2\\com.example.spnitwise.app-merged_res-82:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.2\\com.example.spnitwise.app-main-84:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.2\\com.example.spnitwise.app-merged_res-82:\\layout_fragment_specific_friend.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.2\\com.example.spnitwise.app-main-84:\\layout\\fragment_specific_friend.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.2\\com.example.spnitwise.app-merged_res-82:\\layout_selectable_contacts_layout.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.2\\com.example.spnitwise.app-main-84:\\layout\\selectable_contacts_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.2\\com.example.spnitwise.app-merged_res-82:\\drawable_ic_expenses.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.2\\com.example.spnitwise.app-main-84:\\drawable\\ic_expenses.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.2\\com.example.spnitwise.app-merged_res-82:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.2\\com.example.spnitwise.app-main-84:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.2\\com.example.spnitwise.app-merged_res-82:\\layout_friends_card_layout.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.2\\com.example.spnitwise.app-main-84:\\layout\\friends_card_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.2\\com.example.spnitwise.app-merged_res-82:\\drawable_ic_add.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.2\\com.example.spnitwise.app-main-84:\\drawable\\ic_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.2\\com.example.spnitwise.app-merged_res-82:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.2\\com.example.spnitwise.app-main-84:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\8.2\\com.example.spnitwise.app-merged_res-82:\\layout_activity_signup.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\8.2\\com.example.spnitwise.app-main-84:\\layout\\activity_signup.xml"
+    }
+]

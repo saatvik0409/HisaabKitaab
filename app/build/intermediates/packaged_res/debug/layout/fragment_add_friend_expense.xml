@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".AddFriendExpenseFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/tv_fafe_expenseWith"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="20dp"
+            android:layout_marginStart="32dp"
+            android:text="With you and mangalsaa"
+            android:textSize="18sp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <ImageView
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:id="@+id/iv_fafe_expenseDesc"
+            app:layout_constraintTop_toBottomOf="@id/tv_fafe_expenseWith"
+            app:layout_constraintStart_toStartOf="parent"
+            android:src="@mipmap/ic_launcher_round"
+            android:layout_marginTop="30dp"
+            android:layout_marginStart="70dp"/>
+
+        <EditText
+            android:layout_width="180dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/et_fafe_expenseDesc"
+            app:layout_constraintStart_toEndOf="@id/iv_fafe_expenseDesc"
+            app:layout_constraintBottom_toBottomOf="@id/iv_fafe_expenseDesc"
+            android:padding="12dp"
+            android:layout_marginStart="20dp"
+            android:textSize="18sp"
+            android:hint="Enter a description"/>
+
+        <ImageView
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:id="@+id/iv_fafe_rupeeIcon"
+            app:layout_constraintTop_toBottomOf="@id/iv_fafe_expenseDesc"
+            app:layout_constraintStart_toStartOf="parent"
+            android:src="@mipmap/ic_launcher_round"
+            android:layout_marginTop="15dp"
+            android:layout_marginStart="70dp"/>
+
+        <EditText
+            android:layout_width="180dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/et_fafe_amount"
+            app:layout_constraintStart_toEndOf="@id/iv_fafe_rupeeIcon"
+            app:layout_constraintBottom_toBottomOf="@id/iv_fafe_rupeeIcon"
+            android:layout_marginStart="20dp"
+            android:inputType="numberDecimal"
+            android:padding="12dp"
+            android:textSize="18sp"
+            android:hint="Enter amount"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height= "wrap_content"
+            android:id="@+id/tv_fafe_paidByString"
+            app:layout_constraintTop_toBottomOf="@id/iv_fafe_rupeeIcon"
+            app:layout_constraintStart_toStartOf="parent"
+            android:layout_marginTop="40dp"
+            android:layout_marginStart="20dp"
+            android:text="Paid by"
+            android:textSize="20sp"/>
+
+        <Spinner
+            android:id="@+id/sp_fafe_paidBy"
+            android:layout_width="120dp"
+            android:layout_height="wrap_content"
+            app:layout_constraintTop_toBottomOf="@id/iv_fafe_rupeeIcon"
+            app:layout_constraintStart_toEndOf="@id/tv_fafe_paidByString"
+            android:layout_marginStart="5dp"
+            android:layout_marginTop="25dp"
+            android:background="@android:drawable/btn_dropdown"
+            android:spinnerMode="dropdown"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/tv_fafe_andSplit"
+            app:layout_constraintStart_toEndOf="@id/sp_fafe_paidBy"
+            app:layout_constraintTop_toBottomOf="@id/et_fafe_amount"
+            android:layout_marginTop="40dp"
+            android:layout_marginStart="5dp"
+            android:text="&amp; split"
+            android:textSize="20sp"/>
+
+        <Spinner
+            android:id="@+id/sp_fafe_split"
+            android:layout_width="120dp"
+            android:layout_height="wrap_content"
+            app:layout_constraintTop_toBottomOf="@id/iv_fafe_rupeeIcon"
+            app:layout_constraintStart_toEndOf="@id/tv_fafe_andSplit"
+            android:layout_marginStart="5dp"
+            android:layout_marginTop="25dp"
+            android:background="@android:drawable/btn_dropdown"
+            android:spinnerMode="dropdown"/>
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/bt_fafe_completed"
+            app:layout_constraintStart_toEndOf="@id/tv_fafe_expenseWith"
+            app:layout_constraintTop_toTopOf="parent"
+            android:layout_marginTop="10dp"
+            android:layout_marginStart="20dp"
+            android:text="Add Expense"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/tv_fafe_paidByRemainingAmount"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/tv_fafe_paidByString"
+            android:layout_marginTop="20dp"
+            android:layout_marginStart="15dp"
+            android:text="Remaining Amount: "
+            android:visibility="gone"
+            android:textSize="15sp"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/tv_fafe_splitRemainingAmount"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/tv_fafe_paidByString"
+            android:layout_marginTop="20dp"
+            android:layout_marginEnd="15dp"
+            android:text="Remaining Amount: "
+            android:visibility="gone"
+            android:textSize="15sp"
+            />
+        <androidx.recyclerview.widget.RecyclerView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/rv_fafe_paidBy"
+            app:layout_constraintTop_toBottomOf="@id/tv_fafe_paidByRemainingAmount"
+            android:visibility="gone"
+            app:layout_constraintStart_toStartOf="parent"
+            android:layout_margin="30dp"/>
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/rv_fafe_split"
+            app:layout_constraintTop_toBottomOf="@id/tv_fafe_paidByRemainingAmount"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:visibility="gone"
+            android:layout_margin="30dp"/>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</FrameLayout>

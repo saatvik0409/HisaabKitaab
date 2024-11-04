@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "57491916251",
+    "project_id": "spnitwise",
+    "storage_bucket": "spnitwise.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57491916251:android:4e102d8f1b2e873bdcd3fe",
+        "android_client_info": {
+          "package_name": "com.example.spnitwise"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNoYSROVQ7-saxXbkw4QFWsz0E8SRKItE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
